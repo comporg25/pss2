@@ -1,4 +1,4 @@
-# Lab: Power from Stdin (x86-64, Linux)
+# Power from Stdin (x86-64, Linux)
 
 ## Goal
 
