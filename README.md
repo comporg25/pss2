@@ -1,6 +1,6 @@
 # PSS_2
 
-#### This is a repository dedicated to PSS 1 problems.
+#### This is a repository dedicated to PSS 2 problems.
 
 You can navigate to each folder and find the necessary descriptions and instructions related to the problems.
 
